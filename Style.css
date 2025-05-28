@@ -1,0 +1,26 @@
+body {
+  font-family: 'Courier New', monospace;
+  text-align: center;
+  background-color: #fafafa;
+  padding: 50px;
+  color: #333;
+}
+
+h1 {
+  color: #007700;
+}
+
+#click-btn, #upgrade-btn {
+  padding: 15px 25px;
+  font-size: 18px;
+  margin: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #468847;
+  color: white;
+  cursor: pointer;
+}
+
+#click-btn:hover, #upgrade-btn:hover {
+  background-color: #356735;
+}
